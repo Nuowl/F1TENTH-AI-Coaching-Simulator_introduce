@@ -21,5 +21,4 @@ PLAYWRIGHT_MODULE=/path/to/playwright CHROMIUM_PATH=/path/to/chromium \
 ```
 
 Review bounds again when replacing a video. Remove its entry to show the full
-original frame. This config is project-specific and is not copied into the
-generic design starter; the shared component also works without it.
+original frame. The shared component also works without this configuration file.

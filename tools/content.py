@@ -316,7 +316,7 @@ references = [
     (5, 'Project · Implementation Snapshot', 'F1TENTH AI Coaching development evidence, reviewed 11 September 2026.',
      'docs/EVIDENCE.md', 'Local source and documentation register. Unpublished engineering evidence; raw participant records are not distributed with this website.', '웹페이지 작성 시 확인한 프로젝트 문서와 소스 코드 목록입니다. 개발 과정의 확인 자료이며, 참가자의 원본 주행 기록은 사이트에 포함하지 않습니다.'),
     (6, 'AiX Lab · Design Reference', 'AiX Lab, Gyeongsang National University. Formal Methods for AI and CPS research page.',
-     'https://aix.gnu.ac.kr/research/formal-methods/', 'Reference for the black background, sidebar, language tabs and English heading convention. Lab logo supplied by the project owner.', '검정 배경·사이드바·언어 탭·영문 제목 유지 규칙의 디자인 참고입니다. 연구실 로고는 사용자 제공 자료입니다.'),
+     'https://aix.gnu.ac.kr/research/formal-methods/', 'Reference for the black background, sidebar, language tabs and English heading convention. Lab logo: AiX Lab.', '검정 배경·사이드바·언어 탭·영문 제목 유지 규칙의 디자인 참고입니다. 연구실 로고의 출처는 AiX Lab입니다.'),
 ]
 page('references', 'References & Credits',
      'External research, platform contributions and local implementation evidence are identified separately.',

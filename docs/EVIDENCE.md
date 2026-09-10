@@ -7,7 +7,7 @@ not an experimental publication. Paths below identify the separately maintained
 | Website claim | Source inspected | Interpretation |
 | --- | --- | --- |
 | Project goal and current boundaries | NOTES.md; plans/STATUS.md; plans/REQUIREMENTS.md; plans/TRACEABILITY.md | Current implementation vs planned learning research |
-| Paper interpretation | User-supplied AI_Coaching.pdf, pp. 1–8; public arXiv v1 | L2C, VoI, per-axis blending, PPO, inferred skill and drone study; distinguish within-group from between-group statistics |
+| Paper interpretation | AI_Coaching.pdf, pp. 1–8; public arXiv v1 | L2C, VoI, per-axis blending, PPO, inferred skill and drone study; distinguish within-group from between-group statistics |
 | 20 Hz default | src/telemetry/ros2_experiment_node.py, default --sample-rate=20.0; DATA_CONTRACT_EN.md | Latest-value collection, not synchronized sensors |
 | Human / PP / Applied | src/telemetry/schema.py; DATA_CONTRACT_EN.md | Applied is a final command, not a measured wheel angle |
 | Countdown range and default | src/dashboard/session_controls.py, countdown_spin range 1–120, default 15 | Current UI configuration |
@@ -20,7 +20,7 @@ not an experimental publication. Paths below identify the separately maintained
 | Wheel speed control | src/manual_control/control_core.py, MozaTargetSpeedController | 1 m/s cruise, accelerator up to 3 m/s, brake toward zero; wheel profile specifically |
 | Collision recovery | src/manual_control/ubuntu_ros2_bridge.py, collision latch and release/rearm paths | Hold zero throttle/steering; release selection then choose exactly one mode; not automatic vehicle reset |
 | Dashboard buttons | src/dashboard/desktop_dashboard.py, stop/profile handlers; overlay_dashboard.py opacity/map/window controls | UI and control-profile status are distinct from session-supervisor connectivity |
-| Future maps, pedal recommendations, visual path | Owner's instructions dated 2026-09-11 | Research plan, not implemented functionality |
+| Future maps, pedal recommendations, visual path | Research directions outlined in future.html | Research plan, not implemented functionality |
 
 ## Reconciliation decisions
 
@@ -37,8 +37,7 @@ Do not infer learning gains, steering-feedback hardware capability, complete IMU
 coverage, a pedal recommendation policy, or an active adaptive guard from screenshots.
 Screenshots include illustrative counters and connectivity states; captions identify
 these limits. Demonstration videos and screenshots contain individual lap values
-and session identifiers; they are not aggregate study results. Publication of
-screen-visible identifiers requires the owner's review.
+and session identifiers; they are not aggregate study results.
 
 ## Public primary sources
 
@@ -48,5 +47,3 @@ screen-visible identifiers requires the owner's review.
 - Coulter, Pure Pursuit, CMU-RI-TR-92-01 (1992): https://www.ri.cmu.edu/publications/implementation-of-the-pure-pursuit-path-tracking-algorithm/
 
 Re-review this snapshot whenever runtime capabilities or research results change.
-
-The bilingual editorial re-review is recorded in [CONTENT_REVIEW.md](CONTENT_REVIEW.md).
