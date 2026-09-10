@@ -1,0 +1,8 @@
+{
+  "name": "f1tenth-ai-coaching-research-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static research pages; Playwright is optional development-only verification.",
+  "scripts": {"test": "node tools/verify_browser.cjs"},
+  "devDependencies": {"playwright": "1.57.0"}
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+docs/verification/
+assets/media/racing_wheel.png

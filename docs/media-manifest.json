@@ -1,0 +1,181 @@
+[
+  {
+    "file": "dashboard_exp_02.png",
+    "source_file": "dashboard_exp_02.png",
+    "sha256": "300037d5e9cc0e437ce9d2baf2534d8a2cc96d651ee4626778d0b4c4077b4372",
+    "bytes": 89062
+  },
+  {
+    "file": "aix_lab_logo.png",
+    "source_file": "aix_lab_logo.png",
+    "sha256": "ed47deac72ac1a62b7411d4b836f049a3bd30c24cb0de12cace0df27d4320c50",
+    "bytes": 249454
+  },
+  {
+    "file": "coaching_01.png",
+    "source_file": "coaching_01.png",
+    "sha256": "758832d15ea77e5e302317f172ca1e2ce9f99a7bdec6664fb874b14eaffab0a2",
+    "bytes": 186527
+  },
+  {
+    "file": "AutoDRIVE_01.png",
+    "source_file": "AutoDRIVE_01.png",
+    "sha256": "a11212df0642049a829e70c66613487c6da2933fa735b182d2a24a3802ae4c8a",
+    "bytes": 115633
+  },
+  {
+    "file": "sim_pp_01.png",
+    "source_file": "sim_pp_01.png",
+    "sha256": "16fe96e2d531cc9f565217c259c8b0bb334397d6d7b9702b31dccb58b99f179d",
+    "bytes": 841788
+  },
+  {
+    "file": "sim_pp_01.gif",
+    "source_file": "sim_pp_01.gif",
+    "sha256": "e49d440cc3e4bd681e2139b8a45889b59a62bfab91ce11814a8e202ca3ab450d",
+    "bytes": 3900723
+  },
+  {
+    "file": "sim_pre_01.png",
+    "source_file": "sim_pre_01.png",
+    "sha256": "195d1c1f6eaa65ab8efe9a196d40aa03a3f6a8a16a7b1015d46c86127bea8758",
+    "bytes": 929167
+  },
+  {
+    "file": "sim_pre_01.gif",
+    "source_file": "sim_pre_01.gif",
+    "sha256": "d3ac4d4bf14b89cef09fd94296bc53ce87a04becf780a020137f2cbee42d4a34",
+    "bytes": 4056175
+  },
+  {
+    "file": "dashboard_pre_01.png",
+    "source_file": "dashboard_pre_01.png",
+    "sha256": "5ad700ad1f0f2b13b86b898bde931deb4825376ec745d3be94526b72d4245507",
+    "bytes": 586376
+  },
+  {
+    "file": "dashboard_pre_01.gif",
+    "source_file": "dashboard_pre_01.gif",
+    "sha256": "98f65c51f21cf6c53e7eff8cd6d411e058bedc27c63209bd674c39ef106145d8",
+    "bytes": 960278
+  },
+  {
+    "file": "dashboard_exp_01.png",
+    "source_file": "dashboard_exp_01.png",
+    "sha256": "a7a22dd4cf7924a9d8b6833bfd4ef339c8ce424befa854df626991eb65560c68",
+    "bytes": 78627
+  },
+  {
+    "file": "overlay_pre_01.png",
+    "source_file": "overlay_pre_01.png",
+    "sha256": "e2fbc5897fca0e990e1ad22e1d88821d4b559e6f226deb29a19f3fdf81152522",
+    "bytes": 119822
+  },
+  {
+    "file": "overlay_pre_01.gif",
+    "source_file": "overlay_pre_01.gif",
+    "sha256": "72f1aab3b81f32cba18754caeab8efd77e656611c558c4af1010e0834ac19a27",
+    "bytes": 943485
+  },
+  {
+    "file": "panel_pre_01.gif",
+    "source_file": "panel_pre_01.gif",
+    "sha256": "ebddb56a50c790cb918187d4392dce2cb97c5293cf745daaaed2e0732b235ac4",
+    "bytes": 970433
+  },
+  {
+    "file": "replay_01.png",
+    "source_file": "replay_01.png",
+    "sha256": "5f60c1db889be003827b0a6e65c5c425890bb75af1e743ce12575e1e34eaa9fc",
+    "bytes": 85095
+  },
+  {
+    "file": "replay_02.png",
+    "source_file": "replay_02.png",
+    "sha256": "53cd205a9249b614156f0f2827dfb072dc1c85c95d67d463f5e001ccf261fa59",
+    "bytes": 479499
+  },
+  {
+    "file": "replay_02.gif",
+    "source_file": "replay_02.gif",
+    "sha256": "45c43d9da277fc313c70869e63bc72f8aff24801079fc0520453443b7b55067b",
+    "bytes": 334260
+  },
+  {
+    "file": "replay_04.png",
+    "source_file": "replay_04.png",
+    "sha256": "315c206fee146be94756427e17bc62a0ef3f47f7e6c365b8b69f7dea39836057",
+    "bytes": 224797
+  },
+  {
+    "file": "map_pp.png",
+    "source_file": "map_pp.png",
+    "sha256": "030cafc4038cefc0c9214ee004a7a8d29b75c490e057348a40ddbfe05a45ee57",
+    "bytes": 144184
+  },
+  {
+    "file": "sim_basic_01.png",
+    "source_file": "sim_basic_01.png",
+    "sha256": "ae4aff572154ae66f5f65af2985fecd841c54a0b35f5d6a8c6d4d8efab3077a5",
+    "bytes": 2035719
+  },
+  {
+    "file": "map_pp_01.gif",
+    "source_file": "map_pp_01.gif",
+    "sha256": "5cd35a6e5f3043a89d22539c477cccfe65299bf30b895259c155adc929226eb5",
+    "bytes": 5808347
+  },
+  {
+    "file": "replay_06.png",
+    "source_file": "replay_06.png",
+    "sha256": "7a96b0fa2de44a8357696ccba3e1af7bce3bec3125ea01768c83786b917a4292",
+    "bytes": 252235
+  },
+  {
+    "file": "replay_03.png",
+    "source_file": "replay_03.png",
+    "sha256": "70ad273f2d5e289eb57f2a2ac96ee7e9451b83541d4f070c0fff50c05cdebda5",
+    "bytes": 226974
+  },
+  {
+    "file": "sim_01.png",
+    "source_file": "sim_01.png",
+    "sha256": "0e7b27bc8f64d9d41ed35b58352bbfeab1b82770b8de40774cb4c9a9b0d7bc0f",
+    "bytes": 1614730
+  },
+  {
+    "file": "sim_02.png",
+    "source_file": "sim_02.png",
+    "sha256": "c13794b0d83f4e77f1b176d606b297c711353b7feb22286ed1c33c723a3328f8",
+    "bytes": 992482
+  },
+  {
+    "file": "moza_r5.jpg",
+    "source_file": "moza_r5.jpg",
+    "sha256": "3af8c51805bb99c0be987e1106064893536792834c7040b85c7b1b4bf59084b7",
+    "bytes": 29024
+  },
+  {
+    "file": "F710.jpg",
+    "source_file": "F710.jpg",
+    "sha256": "6703b1267bc3caa7dfbb238618a6337ac5ee63b9021cff5eb25a78b3a15f964c",
+    "bytes": 87200
+  },
+  {
+    "file": "AutoDRIVE Overview - Dark.png",
+    "source_file": "AutoDRIVE Overview - Dark.png",
+    "sha256": "0c424332143b53db36d65a972aaeea6981f94636edde47ed7479bfeec1dbfc7a",
+    "bytes": 1250585
+  },
+  {
+    "file": "panel_pre_01-poster.png",
+    "source_file": "panel_pre_01.gif",
+    "operation": "Frame 0 poster; no content retouching"
+  },
+  {
+    "file": "ai-coaching-figure2.png",
+    "source_file": "AI_Coaching.pdf",
+    "sha256": "301a4458d8310e5778197cc6786cce8c255d06834eacc27b7bd4a91a0b1e3ebb",
+    "operation": "Figure 2, page 2, 200 dpi; native crop x=290 y=190 width=1125 height=610"
+  }
+]

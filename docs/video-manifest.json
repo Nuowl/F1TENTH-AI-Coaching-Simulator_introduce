@@ -1,0 +1,86 @@
+[
+  {
+    "file": "dashboard_pre_01.mp4",
+    "source_file": "dashboard_pre_01.mp4",
+    "sha256": "de64054551f96dcef6d16e7b6bc9c8ca8683a932001c450c7fd156bf18f77e1a",
+    "bytes": 9853928,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "map_pp_01.mp4",
+    "source_file": "map_pp_01.mp4",
+    "sha256": "6d7445c1feed898b55e96ebbfaa0e493bfbe6687514a5cae71a97646ab573168",
+    "bytes": 11096835,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "overlay_pre_01.mp4",
+    "source_file": "overlay_pre_01.mp4",
+    "sha256": "b790d2275ef8c0eeb3bf6e7b8af6a061732114c6b70bcf2bb4752cd686ca567d",
+    "bytes": 4414956,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "panel_pre_01.mp4",
+    "source_file": "panel_pre_01.mp4",
+    "sha256": "56eb90da5aedf1bd61beb255f3ed98d85425fa3a2b73896896af8698d5ade674",
+    "bytes": 5052264,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "replay_01.mp4",
+    "source_file": "replay_01.mp4",
+    "sha256": "8c3024f310b816812b406f36ad9e2078b0a67c6bb4a2d8e1081a40b4c47790c1",
+    "bytes": 14096412,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "replay_02.mp4",
+    "source_file": "replay_02.mp4",
+    "sha256": "4ad5dc4e4258d122a809514d8238f24ce675b4967e09f5ad9127c84140158130",
+    "bytes": 2700946,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "replay_03.mp4",
+    "source_file": "replay_03.mp4",
+    "sha256": "53925863b08630dda93a95c38011ab8d50c7a1ad4cd64af98a5c049d67416c1d",
+    "bytes": 611457,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "replay_04.mp4",
+    "source_file": "replay_04.mp4",
+    "sha256": "d0129937ed67551008518225c3cc42cd88cfacb43ea89b2f6408b53ed99dbedd",
+    "bytes": 9802549,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "sim_01.mp4",
+    "source_file": "sim_01.mp4",
+    "sha256": "3e054d7c5b729df6ec5c28b9429da63337805bebef6395d72ec708bdfbed790f",
+    "bytes": 27144693,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "sim_02.mp4",
+    "source_file": "sim_02.mp4",
+    "sha256": "3da8adf0c3af07ffee11b60570e3bdb69f0eb7211d42e1abafb01f6670a3cfde",
+    "bytes": 5191936,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "sim_pp_01.mp4",
+    "source_file": "sim_pp_01.mp4",
+    "sha256": "a9358ad07851c0c58fc355efa87a6c3a17a4fd1738b9b4516c3cd8eb3bdacc77",
+    "bytes": 27577757,
+    "operation": "Original MP4; no re-encoding"
+  },
+  {
+    "file": "sim_pre_01.mp4",
+    "source_file": "sim_pre_01.mp4",
+    "sha256": "8b1093ce33c7fcb3724a5bf4da88de0a407d7c60e23c6a300b45677f9765cc30",
+    "bytes": 27541146,
+    "operation": "Original MP4; no re-encoding"
+  }
+]
