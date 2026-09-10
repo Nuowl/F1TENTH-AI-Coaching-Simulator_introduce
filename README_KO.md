@@ -2,6 +2,8 @@
 
 [English](README.md) | **한국어**
 
+[연구 소개 페이지 바로가기](https://nuowl.github.io/F1TENTH-AI-Coaching-Simulator_introduce/?lang=ko) — 다운로드 없이 바로 볼 수 있습니다.
+
 AutoDRIVE 기반 F1TENTH 주행 코칭 환경을 소개하는 한영 연구 웹사이트입니다.
 연구 배경·목표·방법과 함께 시뮬레이터, 대시보드, 오버레이, Replay Studio,
 향후 연구 방향을 설명합니다.

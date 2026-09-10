@@ -2,6 +2,8 @@
 
 **English** | [한국어](README_KO.md)
 
+[View the research website](https://nuowl.github.io/F1TENTH-AI-Coaching-Simulator_introduce/) — no download required.
+
 A bilingual research website introducing an AutoDRIVE-based F1TENTH driving
 coaching environment. It covers the research background, goals and approach,
 along with the simulator, dashboard, overlay, Replay Studio and future work.
