@@ -36,7 +36,7 @@ No simulator source, raw session or project planning file was changed.
 - [AutoDRIVE ecosystem](https://autodrive-ecosystem.github.io/) and
   [original repository](https://github.com/Tinker-Twins/AutoDRIVE):
   Simulator, Devkit, Testbed, Unity and external algorithm connection.
-- Separately maintained `ftenth_sim`: NOTES, STATUS, REQUIREMENTS, TRACEABILITY,
+- Separately maintained `f1tenth_sim`: NOTES, STATUS, REQUIREMENTS, TRACEABILITY,
   AI Coaching SOURCE_INDEX, DATA_CONTRACT_EN, dashboard README and focused
   source checks for sampling frequency and session countdown settings.
 

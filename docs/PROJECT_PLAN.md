@@ -24,7 +24,7 @@ alternative text switch to Korean. A deep link carries the chosen language.
 
 - AI Coaching: user-supplied PDF, public arXiv v1 and authors' attribution.
 - AutoDRIVE: official ecosystem site and Tinker-Twins repository.
-- Current implementation: 2026-09-11 source snapshot of ftenth_sim, including
+- Current implementation: 2026-09-11 source snapshot of f1tenth_sim, including
   STATUS, SOURCE_INDEX, DATA_CONTRACT, dashboard README and relevant code.
 - Newer source/status overrides outdated future-tense paragraphs in older docs.
 - Completed UI and data infrastructure do not demonstrate human learning gains.
@@ -51,7 +51,7 @@ Use a black logo background, preserving orange artwork and displaying lettering 
 - Korean uses natural explanatory prose; English and Korean paragraphs break at corresponding meanings.
 - Background explains the source paper and platform before connecting them to the project; source results and project progress stay separate.
 - Site runs directly from index.html or any static HTTP server; no runtime dependencies.
-- Design kit can be copied and built without ftenth_sim or this site.
+- Design kit can be copied and built without f1tenth_sim or this site.
 
 ## Implementation order
 

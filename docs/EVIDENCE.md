@@ -2,7 +2,7 @@
 
 Reviewed 2026-09-11. This is an editorial snapshot of unpublished engineering work,
 not an experimental publication. Paths below identify the separately maintained
-`ftenth_sim` source project; no local runtime or raw session is needed by this site.
+`f1tenth_sim` source project; no local runtime or raw session is needed by this site.
 
 | Website claim | Source inspected | Interpretation |
 | --- | --- | --- |
