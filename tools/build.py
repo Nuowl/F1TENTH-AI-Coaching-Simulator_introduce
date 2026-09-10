@@ -56,6 +56,7 @@ def build():
 <footer class="footer"><div class="wrap footer-inner"><span>AiX Lab · Gyeongsang National University</span><span>{bi('Research in progress · ' + PERIOD[0], '연구 진행 중 · ' + PERIOD[1])} · <a data-local href="references.html">References &amp; Credits</a></span></div></footer>
 <dialog aria-label="Expanded animation"><button type="button" data-label-en="Close" data-label-ko="닫기" aria-label="Close">×</button><img alt=""></dialog>
 </body></html>'''
+        html = '\n'.join(line.rstrip() for line in html.splitlines()) + '\n'
         (ROOT / f'{key}.html').write_text(html, encoding='utf-8')
         print(f'Built {key}.html')
 
